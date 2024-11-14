@@ -1,7 +1,7 @@
 # Music
-Repository to showcase snippet examples of music that was written for the game, "The Night After". 
+Repository to showcase original music album composed specifically for the game, "The Night After". 
 
-"Our Time Together" - Composed for the finale of the game, the track is designed to be a hopeful melancholy.
+"Our Time Together" - Composed for the finale of the game, the track is designed to be a hopeful melancholy, reflecting the polar bear cub's search for its mother. 
 
 https://github.com/user-attachments/assets/07a9d2b6-7417-4c23-9238-8fe261cb7811
 
@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/07a9d2b6-7417-4c23-9238-8fe261cb7811
 
 https://github.com/user-attachments/assets/9b424e78-569b-459d-a449-d02afb718f68
 
-"Winter's First Snow" - Composed for the start of the game, used as main menu music.
+"Winter's First Snow" - Composed for the start of the game, used as the main menu theme.
 
 https://github.com/user-attachments/assets/a6bd0335-76e8-4adc-b0c7-957f7fd2e55c
 
