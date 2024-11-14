@@ -1,5 +1,5 @@
 # Music
-Repository to showcase original music album composed specifically for the game, "The Night After". 
+Repository to showcase snippets from original music album composed specifically for the game, "The Night After". 
 
 "Our Time Together" - Composed for the finale of the game, the track is designed to be a hopeful melancholy, reflecting the polar bear cub's search for its mother. 
 
